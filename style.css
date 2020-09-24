@@ -1,0 +1,61 @@
+.whole_box {
+  width: 50%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  left: 25%;
+}
+.white_01 {
+  width: 11.5%;
+  height: 32%;
+  background-color: whitesmoke;
+  position: absolute;
+  left: 25%;
+}
+.white_02 {
+  width: 11.5%;
+  height: 34%;
+  background-color: whitesmoke;
+  position: absolute;
+  left: 25%;
+  top: 38%;
+}
+.white_03 {
+  width: 28%;
+  height: 25%;
+  background-color: whitesmoke;
+  position: absolute;
+  left: 38%;
+  top: 75%;
+}
+.white_04 {
+  width: 7%;
+  height: 11%;
+  background-color: whitesmoke;
+  position: absolute;
+  left: 68%;
+  top: 75%;
+}
+.yell_01 {
+  width: 7%;
+  height: 11%;
+  background-color: rgb(255, 238, 88);
+  position: absolute;
+  left: 68%;
+  top: 89%;
+}
+.red_01 {
+  width: 37%;
+  height: 72%;
+  background-color: red;
+  position: absolute;
+  left: 38%;
+}
+.blue_01 {
+  width: 11.5%;
+  height: 25%;
+  background-color: rgb(19, 92, 187);
+  position: absolute;
+  left: 25%;
+  top: 75%;
+}
